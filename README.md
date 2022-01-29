@@ -29,7 +29,7 @@ These scad files were created with "openSCAD" version 2021.01
 The two .scad files should (most probably) need to be rendered and made physical before
 placing the rendered object from ornamentArm.scad (arm) into the ornamentBase.scad (base).
 The two could be produced physically as one piece, but I don't because it makes printing 
-slower, packaging awkward, print design more complicated.
+slower, packaging awkward, and print design more complicated.
 
 The ornamentHolder-C.svg file is needed, required, referenced, and wanted by ornamentArm.scad. Place ornamentHolder-C.svg in the same directory as
 ornamentArm.scad before rendering.

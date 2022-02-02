@@ -24,7 +24,9 @@ echo ("    ornamentArm.scad  Copyright (C) 2022  Robert Daniel Berne
 
 
 linear_extrude(5)
-import ("ornamentHolder-C.svg",center=true,convexity=3);
+//choose one from below and uncomment
+//import ("ornamentHolder-C.svg",center=true,convexity=3);
+//import ("ornamentHolder-D.svg",center=true,convexity=3);
 
 
 
